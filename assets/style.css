@@ -1,0 +1,32 @@
+.first {
+  color: white;
+  background-color: blue;
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+.cat-image {
+  height: 50px;
+  width: 50px;
+}
+
+.box {
+  border: 3px solid lightslategrey;
+  padding-top: 0px;
+  margin: 30px;
+  /* offset-x | offset-y | blur-radius | spread-radius | color */
+  box-shadow: 5px 15px 0 0 lightslategray;
+}
+
+h2 {
+  margin-top: 0px;
+  text-align: center;
+}
+
+p {
+  color: white;
+  background-color: blue;
+  font-size: 22px;
+  text-align: center;
+  padding-bottom: 10px;
+}
